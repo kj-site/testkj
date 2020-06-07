@@ -121,3 +121,7 @@ font-size: 24px;
 .navbar-toggler{
 color: #eeeeee;	
 }
+
+.vertical-spacer2{
+	height: 1em
+}
